@@ -12,7 +12,7 @@
 </head>
 <body>
 <form action="/kafka" method="post">
-    메시지 입력 : <input type="text" name="message"/>
+    구매 물품 : <input type="text" name="name"/>
     <input type="submit" value="전송"/>
 </form>
 </body>
