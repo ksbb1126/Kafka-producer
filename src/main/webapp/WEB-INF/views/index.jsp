@@ -14,6 +14,7 @@
 <form action="/kafka" method="post">
     구매 물품 : <input type="text" name="name"/>
     <input type="submit" value="전송"/>
-</form>
+</form><br/>
+<a href="list">리스트 보기</a>
 </body>
 </html>
